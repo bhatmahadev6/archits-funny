@@ -5,7 +5,7 @@ playing with CPU Design and Architectures for Fun!!!
 
 #Basic CPU Rev1 
     * ALU
-    * Program Counter
+    * Program Counter <br/>
     * Output Reg
     * Input Reg
     * Instruction Reg
