@@ -1,0 +1,4 @@
+#TimeLine 
+
+# Start 
+# Day 1 : June 24th :: ALU and Control Unit (HDL)
