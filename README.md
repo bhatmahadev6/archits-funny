@@ -3,10 +3,10 @@ playing with CPU Design and Architectures for Fun!!!
 
 ![git-small](https://github.com/bhatmahadev6/archits-funny/blob/main/CPU_rev1.png)
 
-#Basic CPU Rev1 
-    * ALU
+#Basic CPU Rev1 <br/>
+    * ALU       <br/>
     * Program Counter <br/>
-    * Output Reg
+    * Output Reg <br/>
     * Input Reg
     * Instruction Reg
     * Basic RAM
