@@ -7,8 +7,8 @@ playing with CPU Design and Architectures for Fun!!!
     * ALU       <br/>
     * Program Counter <br/>
     * Output Reg <br/>
-    * Input Reg
-    * Instruction Reg
-    * Basic RAM
-    * Control Unit 
-    * External Programming Interface (Optional)
+    * Input Reg<br/>
+    * Instruction Reg<br/>
+    * Basic RAM<br/>
+    * Control Unit <br/>
+    * External Programming Interface (Optional)<br/>
